@@ -34,5 +34,4 @@ plt.ylabel('Tempo (segundos)') # Escreve um texto na posição y da tabela
 plt.title('Notação Big O') # Adiciona um titulo a tabela
 plt.show() # Imprime a tabela
 
-# O GRUPO ESTÁ DEVENDO 1 PALHA ITÁLIANA PARA GABRIEL SOUZA E JOÃO FRANÇA
 
