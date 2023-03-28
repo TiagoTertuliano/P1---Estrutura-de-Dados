@@ -33,3 +33,4 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/47799542/227820831-93f073c1-9ed6-4ad4-a3c9-b0825af1ed27.png" width="700px" />
 </div>
+<p>Com isso, apresentamos o projeto final, que está atualmente lendo os itens dentro das listas e organizando em ordem crescente e decrescente, em seguida, imprimindo ambas as sequências. Finalizando, o código também plota a sequência em ordem crescente dentro do gráfico com a notação Big'O do resultado, conforme o proposto no projeto.</p>
